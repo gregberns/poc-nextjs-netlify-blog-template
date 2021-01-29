@@ -11,3 +11,7 @@ tags:
     name: mdx
   - slug: markdown
     name: markdown
+  - name: Strength Training
+    slug: strength-training
+  - slug: performance
+    name: Performance
