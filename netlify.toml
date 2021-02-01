@@ -4,6 +4,7 @@
 
 #                                               https://www.issaonline.com/blog/index.cfm/2021/how-to-maximize-fitness-with-energy-systems-training
 # https://60182a82e7abc30007b7b6e1--vigorous-archimedes-103e61.netlify.app/blog/index.cfm/2021/how-to-maximize-fitness-with-energy-systems-training
+# /blog/index.cfm/how-to-maximize-fitness-with-energy-systems-training
 [[redirects]]
   from = "/blog/index.cfm/2021/*"
   to = "/posts/:splat"
