@@ -2,10 +2,11 @@
   publish = "dist"
   command = "npm run export"
 
-# https://www.issaonline.com/blog/index.cfm/2021/how-to-maximize-fitness-with-energy-systems-training
+#                                               https://www.issaonline.com/blog/index.cfm/2021/how-to-maximize-fitness-with-energy-systems-training
+# https://60182a82e7abc30007b7b6e1--vigorous-archimedes-103e61.netlify.app/blog/index.cfm/2021/how-to-maximize-fitness-with-energy-systems-training
 [[redirects]]
-  from = "/blog/index.cfm/2021"
-  to = "/posts"
+  from = "/blog/index.cfm/2021/*"
+  to = "/posts/:splat"
   status = 301
   force = false
   query = {path = ":path"} #  apply this rule for /old-path?path=example
