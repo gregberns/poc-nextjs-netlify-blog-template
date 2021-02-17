@@ -33,6 +33,7 @@ export default function Index() {
                 <label>Your Role: <select name="role[]" multiple>
                   <option value="leader">Leader</option>
                   <option value="follower">Follower</option>
+                  <option value="bum">Bum</option>
                 </select></label>
               </p>
               <p>
